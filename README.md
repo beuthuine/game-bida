@@ -49,3 +49,4 @@ Người chơi điều khiển **thanh chắn** để **đỡ và đẩy các vi
 
 **Tình Iu Thanh** – 2025  
 🎮 *“Một game nhỏ nhưng vui, giúp rèn phản xạ và độ chính xác!”*
+các bạn hãy vào đây để xem nhé https://youtu.be/4_yMd1yVr74
