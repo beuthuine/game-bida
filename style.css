@@ -1,0 +1,31 @@
+body {
+  background: radial-gradient(circle, #004, #000);
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  overflow: hidden;
+}
+
+#menu {
+  margin-top: 80px;
+}
+
+.map-select button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+#gameCanvas {
+  display: none;
+  background-color: #063;
+  margin: 0 auto;
+  display: block;
+  border: 3px solid #fff;
+}
+
+#info {
+  margin: 10px;
+}
