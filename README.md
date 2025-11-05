@@ -43,24 +43,6 @@ Người chơi điều khiển **thanh chắn** để **đỡ và đẩy các vi
 - **HTML5 Canvas** – xử lý đồ họa & hiệu ứng.
 - **CSS3** – thiết kế giao diện.
 - **JavaScript (Vanilla)** – xử lý vật lý, va chạm và logic.
-
----
-
-## 🌐 Triển khai GitHub Pages
-
-Sau khi tải lên GitHub:
-1. Vào **Settings → Pages**
-2. Ở phần “Branch”, chọn **main** và **/ (root)**
-3. Nhấn **Save**  
-4. Link chơi trực tiếp sẽ có dạng:  
-   👉 `https://<tên-github>.github.io/game-day-bi/`
-
----
-
-## 🏷️ Tags
-
-`html5-game`, `javascript-game`, `canvas`, `billiard`, `mini-game`, `browser-game`, `pure-js`, `fun`
-
 ---
 
 ## ✨ Tác giả
