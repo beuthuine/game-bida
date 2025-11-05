@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Game Bắn Bi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="menu">
+    <h1> Game Bắn Bi </h1>
+    <p>Chọn bản đồ và số lượng bi để bắt đầu</p>
+
+    <label for="ballCount">Số bi (tối đa 10):</label>
+    <input type="number" id="ballCount" value="5" min="1" max="10">
+
+    <div class="map-select">
+      <button class="map-btn" data-map="1">Map 1</button>
+      <button class="map-btn" data-map="2">Map 2</button>
+      <button class="map-btn" data-map="3">Map 3</button>
+    </div>
+  </div>
+
+  <div id="info" style="display:none;">
+    <p id="status">Trò chơi đang diễn ra...</p>
+    <button id="restartBtn"> Chơi lại</button>
+  </div>
+
+  <canvas id="gameCanvas"></canvas>
+
+  <script src="script.js"></script>
+</body>
+</html>
